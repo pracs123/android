@@ -1,5 +1,5 @@
 ## Table of Contents
-- Practical 2: [Simple text "Hello World" program.](#helloworld2)
+- Practical 2: [Simple text "Hello World" program.](https://github.com/pracs123/android/tree/main/AlarmManager)
 - Practical 3: [Interactive User Interface using layouts.](#prac3)
 - Practical 4: [Working with TextVeiw elements.](#loginpage)
 - Practical 5: [Working with Button elements.](#buttons)
