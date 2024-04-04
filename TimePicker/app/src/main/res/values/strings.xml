@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time picker</string>
+    <string name="time_picker_example">Time Picker Example</string>
+    <string name="pick_the_time_and_press_save_button">Pick the time and press save button</string>
+    <string name="save">Save</string>
+    <string name="time_selected">00:00</string>
+    <string name="the_time_is">The time is:</string>
+</resources>
