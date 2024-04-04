@@ -1,0 +1,16 @@
+## Table of Contents
+- Practical 2: [Simple text "Hello World" program.](#helloworld2)
+- Practical 3: [Interactive User Interface using layouts.](#prac3)
+- Practical 4: [Working with TextVeiw elements.](#loginpage)
+- Practical 5: [Working with Button elements.](#buttons)
+- Practical 6: [Activity Lifecycle and Instance state.](#lifecycle)
+- Practical 7: [Use of Keyboards and input controls.](#keyboard)
+- Practical 8(A): [Use of Alerts.](#alert)
+- Practical 8(B): [Use of Time-picker.](#timepicker)
+- Practical 9: [Use of an Option Menu.](#optionmenu)
+- Practical 10: [Use of Screen Navigation using the Appbar and Tabs.](#screennavigation)
+- Practical 11: [Connect to the internet and use Broadcast Receiver.](#internet)
+- Practical 12(A): [Use of Notification.](#notification)
+- Practical 12(B): [Use of Alarm Manager.](#alarmmanager)
+- Practical 13: [Database and use of different queries.](#database)
+
