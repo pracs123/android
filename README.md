@@ -3,7 +3,7 @@
 - Practical 3: [Interactive User Interface using layouts.](https://github.com/pracs123/android/tree/main/prac3)
 - Practical 4: [Working with TextVeiw elements.](https://github.com/pracs123/android/tree/main/LoginPage)
 - Practical 5: [Working with Button elements.](https://github.com/pracs123/android/tree/main/buttons)
-- Practical 6: [Activity Lifecycle and Instance state.](https://github.com/pracs123/android/tree/main/Lifecycle)
+- Practical 6: [Activity Lifecycle and Instance state.](https://github.com/pracs123/android/tree/main/LifeCycle)
 - Practical 7: [Use of Keyboards and input controls.](https://github.com/pracs123/android/tree/main/Keyboard)
 - Practical 8(A): [Use of Alerts.](https://github.com/pracs123/android/tree/main/Alert)
 - Practical 8(B): [Use of Time-picker.](https://github.com/pracs123/android/tree/main/TimePicker)
